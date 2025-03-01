@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{664f92fe-8840-483f-8785-bb0248e70be7}">
+		<property name="assetPath">
+			<value>SFX_PLYR/Effort_Damage/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5a5d8e30-e3bc-4757-ada5-38d00cd8d5db}</destination>
+		</relationship>
+	</object>
+</objects>

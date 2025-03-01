@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{0c12fa19-8e37-4148-b2b6-568db5bad5be}">
+		<property name="assetPath">
+			<value>SFX_Enemies/Zombi_Broccoli/SFX_ENE_Broc_Zom_Idle_04.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>2.3137708333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5a5d8e30-e3bc-4757-ada5-38d00cd8d5db}</destination>
+		</relationship>
+	</object>
+</objects>

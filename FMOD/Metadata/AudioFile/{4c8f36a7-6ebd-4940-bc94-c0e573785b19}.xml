@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4c8f36a7-6ebd-4940-bc94-c0e573785b19}">
+		<property name="assetPath">
+			<value>SFX_Items/Gate/SFX_Gate_Impact_02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.80266666666666664</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5a5d8e30-e3bc-4757-ada5-38d00cd8d5db}</destination>
+		</relationship>
+	</object>
+</objects>

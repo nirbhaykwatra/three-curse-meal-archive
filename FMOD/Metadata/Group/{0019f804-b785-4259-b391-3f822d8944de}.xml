@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{0019f804-b785-4259-b391-3f822d8944de}">
+		<property name="name">
+			<value>MX</value>
+		</property>
+		<relationship name="automators">
+			<destination>{61106708-d617-4536-be69-0dcf95283ba9}</destination>
+		</relationship>
+		<relationship name="effectChain">
+			<destination>{cdac50f6-bb51-4b00-b773-1d601578e43c}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{94fd8eed-9a9d-4377-a2b8-96c67a6fc5af}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{31df4667-7cf9-4927-8eaa-5b262ee3f01b}</destination>
+		</relationship>
+	</object>
+	<object class="Automator" id="{61106708-d617-4536-be69-0dcf95283ba9}">
+		<property name="nameOfPropertyBeingAutomated">
+			<value>volume</value>
+		</property>
+	</object>
+	<object class="MixerBusEffectChain" id="{cdac50f6-bb51-4b00-b773-1d601578e43c}">
+		<relationship name="effects">
+			<destination>{f80231fd-0b22-4bcf-b6de-631b7b510ac5}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{94fd8eed-9a9d-4377-a2b8-96c67a6fc5af}" />
+	<object class="MixerBusFader" id="{f80231fd-0b22-4bcf-b6de-631b7b510ac5}" />
+</objects>

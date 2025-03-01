@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{691a4703-d3a0-438e-90d9-bae5bf2a6192}">
+		<property name="assetPath">
+			<value>SFX_PLYR/Feet/HollowWood_Footsteps/SFX_PLYR_HollowWood_Footsteps_01-05_Left/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5a5d8e30-e3bc-4757-ada5-38d00cd8d5db}</destination>
+		</relationship>
+	</object>
+</objects>

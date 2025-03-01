@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e5ded815-1225-4a92-a299-2da20b4c9480}">
+		<property name="assetPath">
+			<value>SFX_AMB/Maze/Spec/SFX_AMB_Spec_Bat_Wings_01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.0146250000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5a5d8e30-e3bc-4757-ada5-38d00cd8d5db}</destination>
+		</relationship>
+	</object>
+</objects>

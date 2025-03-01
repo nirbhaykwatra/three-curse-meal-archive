@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{f9bef121-2b12-470a-aa21-84e376442e95}">
+		<property name="name">
+			<value>MVMT</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{09e496a2-88e5-4825-abf1-d8e24c699d38}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{f96e2446-a4ce-4ccb-9f97-9ec1609d69b2}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{3139b9df-14cc-441e-929a-8b7462bb1397}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{09e496a2-88e5-4825-abf1-d8e24c699d38}">
+		<relationship name="effects">
+			<destination>{71022350-b42d-48af-ac61-fef8d408d0f6}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{f96e2446-a4ce-4ccb-9f97-9ec1609d69b2}" />
+	<object class="MixerBusFader" id="{71022350-b42d-48af-ac61-fef8d408d0f6}" />
+</objects>

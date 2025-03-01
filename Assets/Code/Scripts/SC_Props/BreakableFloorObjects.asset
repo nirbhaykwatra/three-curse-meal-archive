@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0131c7c90703af24fa41d2477deccc30, type: 3}
+  m_Name: BreakableFloorObjects
+  m_EditorClassIdentifier: 
+  _floorArt:
+  - {fileID: 952698344526327816, guid: a826bb04471234c49b67bbf90d97a891, type: 3}
+  _rocks:
+  - {fileID: 5886228543317448385, guid: 06851f77a49de1444b78f11a3026408f, type: 3}
+  - {fileID: 5886228543317448385, guid: 98fba1c9583d01344a74f64673607ee8, type: 3}
+  _rockArt: {fileID: 5886228543317448385, guid: 06851f77a49de1444b78f11a3026408f, type: 3}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{95892694-a7aa-43a7-a37c-fd8a96314dd8}">
+		<property name="name">
+			<value>PeaShooter</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{a460c6b2-0933-431a-9334-6a0c2ff970e9}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{81e11349-47c5-4cf5-afa1-f0404aa4e8cb}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{bd14f81e-681a-431f-bd4b-1f30a8872eba}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{a460c6b2-0933-431a-9334-6a0c2ff970e9}">
+		<relationship name="effects">
+			<destination>{d90ffbae-02b4-4b1f-9e98-7a44fbb09e82}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{81e11349-47c5-4cf5-afa1-f0404aa4e8cb}" />
+	<object class="MixerBusFader" id="{d90ffbae-02b4-4b1f-9e98-7a44fbb09e82}" />
+</objects>

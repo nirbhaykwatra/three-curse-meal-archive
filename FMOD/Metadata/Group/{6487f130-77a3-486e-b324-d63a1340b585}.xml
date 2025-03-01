@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{6487f130-77a3-486e-b324-d63a1340b585}">
+		<property name="volume">
+			<value>-1</value>
+		</property>
+		<property name="name">
+			<value>PeaSM</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{111f53bb-2b40-4153-9e16-38579c791ee5}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{6c29a852-4830-464b-9b73-a5006e57e33e}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{439705bc-5372-4361-bf16-c72a8d3bce11}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{111f53bb-2b40-4153-9e16-38579c791ee5}">
+		<relationship name="effects">
+			<destination>{33792305-8277-433c-8fcf-5e3ad90ce0df}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{6c29a852-4830-464b-9b73-a5006e57e33e}" />
+	<object class="MixerBusFader" id="{33792305-8277-433c-8fcf-5e3ad90ce0df}" />
+</objects>

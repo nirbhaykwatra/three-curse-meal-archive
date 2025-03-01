@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{6dfc8a30-2e37-48de-89c4-7e16a00eafd1}">
+		<property name="assetPath">
+			<value>SFX_PLYR/Feet/Stone_Footsteps/SFX_PLYR_Stone_Footsteps_01-05_Left/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{5a5d8e30-e3bc-4757-ada5-38d00cd8d5db}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{59a0c3ad-c110-4295-86f8-a112cfc50b70}">
+		<property name="name">
+			<value>BroccoliEnem</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{60d53286-5500-4447-9db3-35bcb390c0f5}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{94cba4a7-5d0f-4539-8edb-d6a6752d5d12}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{bd14f81e-681a-431f-bd4b-1f30a8872eba}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{60d53286-5500-4447-9db3-35bcb390c0f5}">
+		<relationship name="effects">
+			<destination>{bd277aef-4efc-4f75-ba9b-deb7704156d4}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{94cba4a7-5d0f-4539-8edb-d6a6752d5d12}" />
+	<object class="MixerBusFader" id="{bd277aef-4efc-4f75-ba9b-deb7704156d4}" />
+</objects>

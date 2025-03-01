@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{3139b9df-14cc-441e-929a-8b7462bb1397}">
+		<property name="name">
+			<value>PLYR</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{3ceff4d6-52d7-4b1d-af77-2d626ae3b5a0}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{d37c76b3-7eb7-4bfa-b772-6a911c0d9c00}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{749cdfec-e910-4cdc-aacd-0548b49d14e0}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{3ceff4d6-52d7-4b1d-af77-2d626ae3b5a0}">
+		<relationship name="effects">
+			<destination>{f3bee8e7-5033-4970-872d-b2b8abfabdea}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{d37c76b3-7eb7-4bfa-b772-6a911c0d9c00}" />
+	<object class="MixerBusFader" id="{f3bee8e7-5033-4970-872d-b2b8abfabdea}" />
+</objects>

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WholeLevelAbyss
+  m_Shader: {fileID: -6465566751694194690, guid: 71d226e40c6c1b9498de35e5414c1373, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Fresnel: 6.04
+    - FresnelOpacity: 5.61
+    - SmoothEdge1: 0
+    - SmoothEdge2: 1
+    - _Emission: 0.71
+    - baseSpeed: 1.02
+    - baseStrenght: 1.73
+    - base_scale: 0.08
+    - height: 2.54
+    - noisePower: 2
+    - noise_scale: 0.75
+    - speed: 0.07
+    - transperency: 0.16
+    m_Colors:
+    - ColorPeak: {r: 0.036934845, g: 0.04314076, b: 0.09433961, a: 0}
+    - ColorValley: {r: 0, g: 0, b: 0, a: 0}
+    - cloudSize: {r: -3.2, g: 3.73, b: -1, a: 1}
+    - rotate_projection: {r: 1, g: 0, b: 0, a: 99.9}
+  m_BuildTextureStacks: []

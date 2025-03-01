@@ -1,0 +1,1713 @@
+fileFormatVersion: 2
+guid: ce54beb2268c7c440ae0dfa9a0ecb2ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1997983427079204491
+    second: RoundButton_Frame_Op1
+  - first:
+      213: -2242911272580784506
+    second: RoundButton_Frame_Op2
+  - first:
+      213: 7208106850282566461
+    second: RoundButton_Frame_Op3
+  - first:
+      213: 3303909427098033265
+    second: Panel_Filled
+  - first:
+      213: 6522926881772575649
+    second: AbilityButton_Disable_BrocolliRing
+  - first:
+      213: 8240114503325441606
+    second: RoundButton_Clicked_Op1
+  - first:
+      213: 1928566696291120068
+    second: RoundButton_Clicked_Op2
+  - first:
+      213: -8882723404404433249
+    second: RoundButton_Clicked_Op3
+  - first:
+      213: 7040899507186427306
+    second: RoundButton_HighLight_Op1
+  - first:
+      213: -4734932565565833062
+    second: RoundButton_HighLight_Op2
+  - first:
+      213: 3079850192802285701
+    second: RoundButton_HighLight_Op3
+  - first:
+      213: -1983652196504064915
+    second: RoundButton_Normal_Op1
+  - first:
+      213: 7481478073410783102
+    second: RoundButton_Normal_Op2
+  - first:
+      213: -3233138491841863971
+    second: RoundButton_Normal_Op3
+  - first:
+      213: -1314952616310052540
+    second: Button_Frame_Op1
+  - first:
+      213: 556910253770620810
+    second: Button_Frame_Op2
+  - first:
+      213: 932360521700879352
+    second: Button_Frame_Op3
+  - first:
+      213: 4807651152267189537
+    second: Button_Clicked_Op1
+  - first:
+      213: -6572922351113320030
+    second: Button_Clicked_Op2
+  - first:
+      213: -1015151908850111436
+    second: Button_Clicked_Op3
+  - first:
+      213: 1457555503565429647
+    second: Bar_Resources
+  - first:
+      213: -2909022435118239005
+    second: Button_HighLight_Op1
+  - first:
+      213: 5131119423893468081
+    second: Button_HighLight_Op2
+  - first:
+      213: -4368007857811052165
+    second: Button_HighLight_Op3
+  - first:
+      213: -7201996759321581333
+    second: Outline_Bar_Op1
+  - first:
+      213: -5130297389234078621
+    second: Outline_ResourceBar_Peas
+  - first:
+      213: -7485035307885534178
+    second: Button_Normal_Op1
+  - first:
+      213: 1688026484004789524
+    second: Button_Normal_Op2
+  - first:
+      213: 239844232646533669
+    second: Button_Normal_Op3
+  - first:
+      213: -126656978542282640
+    second: Outline_ResourceBar_Pepper
+  - first:
+      213: 2762516079823619964
+    second: Icon_PepperBlast
+  - first:
+      213: -6946201703966562316
+    second: Icon_BrocolliRing
+  - first:
+      213: -4261291199002836885
+    second: Icon_PeasMaker
+  - first:
+      213: 8034699449446076984
+    second: Icon_Dash
+  - first:
+      213: 4433706559487745917
+    second: Icon_Attack
+  - first:
+      213: -2468861325050125844
+    second: Icon_Arrow
+  - first:
+      213: -6977928365277243778
+    second: Icon_Pepper
+  - first:
+      213: 7304326603818764295
+    second: Icon_Brocolli
+  - first:
+      213: -6317420368644881708
+    second: Icon_Peas
+  - first:
+      213: -1932740737915018682
+    second: Bar_Health
+  - first:
+      213: -2062787012887487040
+    second: Outline_Health
+  - first:
+      213: 3483092224453061085
+    second: AbilityButton_Normal_Dash
+  - first:
+      213: -932189526562719559
+    second: AbilityButton_Normal_Attack
+  - first:
+      213: 3562418039447413309
+    second: AbilityButton_Click_Dash
+  - first:
+      213: 1836374936154049520
+    second: AbilityButton_Click_BrocolliRing
+  - first:
+      213: 1639321419929582667
+    second: AbilityButton_Click_PepperBlast
+  - first:
+      213: -2271219271743207018
+    second: AbilityButton_Click_Attack
+  - first:
+      213: -6434451467407309693
+    second: AbilityButton_Click_BrocolliRing
+  - first:
+      213: -74897674694350539
+    second: AbilityButton_click_PeaSMaker
+  - first:
+      213: -7400914443706865172
+    second: AbilityButton_Disable_PeaSMaker
+  - first:
+      213: 3015055892544597065
+    second: AbilityButton_Highlight_PepperBlast
+  - first:
+      213: 1672940041046364743
+    second: AbilityButton_Disable_PepperBlast
+  - first:
+      213: -6001840786430770991
+    second: Icon_PotBase
+  - first:
+      213: -6968978682836420583
+    second: Icon_PotLid
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RoundButton_Frame_Op1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1853
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57193d9a8acb544e0800000000000000
+      internalID: -1997983427079204491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundButton_Frame_Op2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1853
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e5a1fb4149fd0e0800000000000000
+      internalID: -2242911272580784506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundButton_Frame_Op3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1853
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33f62a7df6580460800000000000000
+      internalID: 7208106850282566461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Panel_Filled
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1339
+        width: 653
+        height: 677
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 170, y: 156, z: 272, w: 247}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c1e3c7e18d9dd20800000000000000
+      internalID: 3303909427098033265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityButton_Disable_BrocolliRing
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1357
+        width: 245
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab96e36077168a50800000000000000
+      internalID: 6522926881772575649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundButton_Clicked_Op1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1686
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ed1479b74ca5270800000000000000
+      internalID: 8240114503325441606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundButton_Clicked_Op2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1685
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3b41a3135a3ca10800000000000000
+      internalID: 1928566696291120068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundButton_Clicked_Op3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1683
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9edc6a502a3ab480800000000000000
+      internalID: -8882723404404433249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundButton_HighLight_Op1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1510
+        width: 162
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5e1192ccc46b160800000000000000
+      internalID: 7040899507186427306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundButton_HighLight_Op2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1509
+        width: 163
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90050a1be32a4eb0800000000000000
+      internalID: -4734932565565833062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundButton_HighLight_Op3
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1509
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588066fbe63ddba20800000000000000
+      internalID: 3079850192802285701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundButton_Normal_Op1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1327
+        width: 164
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ca37d46d6a874e0800000000000000
+      internalID: -1983652196504064915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundButton_Normal_Op2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1328
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7706805bac83d760800000000000000
+      internalID: 7481478073410783102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RoundButton_Normal_Op3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1327
+        width: 163
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde9f1ceba59123d0800000000000000
+      internalID: -3233138491841863971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Frame_Op1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1209
+        width: 285
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 79, y: 32, z: 58, w: 37}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4496e58ff8950cde0800000000000000
+      internalID: -1314952616310052540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Frame_Op2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1209
+        width: 285
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 72, y: 32, z: 45, w: 39}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f35c7dcea8ab700800000000000000
+      internalID: 556910253770620810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Frame_Op3
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1209
+        width: 285
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 57, y: 34, z: 69, w: 39}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb249264f860fc00800000000000000
+      internalID: 932360521700879352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Clicked_Op1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1089
+        width: 285
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 77, y: 33, z: 54, w: 36}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d12ee304538b240800000000000000
+      internalID: 4807651152267189537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Clicked_Op2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1089
+        width: 285
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 74, y: 34, z: 49, w: 37}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a94aad42f948c4a0800000000000000
+      internalID: -6572922351113320030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Clicked_Op3
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1089
+        width: 285
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 61, y: 30, z: 71, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cede7a7b479e1f0800000000000000
+      internalID: -1015151908850111436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar_Resources
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1107
+        width: 450
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bde6e02074a3410800000000000000
+      internalID: 1457555503565429647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_HighLight_Op1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 970
+        width: 285
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 78, y: 27, z: 65, w: 34}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2b227028311a7d0800000000000000
+      internalID: -2909022435118239005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_HighLight_Op2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 970
+        width: 285
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 73, y: 32, z: 58, w: 37}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3f6412ee5653740800000000000000
+      internalID: 5131119423893468081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_HighLight_Op3
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 970
+        width: 285
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 60, y: 34, z: 72, w: 39}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79ae0bfef7b163c0800000000000000
+      internalID: -4368007857811052165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outline_Bar_Op1
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1027
+        width: 468
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 62, y: 0, z: 55, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be86f1fea1e5d0c90800000000000000
+      internalID: -7201996759321581333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outline_ResourceBar_Peas
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 952
+        width: 468
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 62, y: 0, z: 55, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cb69ab4b58dc8b0800000000000000
+      internalID: -5130297389234078621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Normal_Op1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 852
+        width: 285
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 78, y: 31, z: 77, w: 34}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14e93e7b00df1890800000000000000
+      internalID: -7485035307885534178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Normal_Op2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 852
+        width: 285
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 31, z: 39, w: 34}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d9e86c4231d6710800000000000000
+      internalID: 1688026484004789524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Normal_Op3
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 852
+        width: 285
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 60, y: 35, z: 62, w: 39}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522a2501f09145300800000000000000
+      internalID: 239844232646533669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outline_ResourceBar_Pepper
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 879
+        width: 470
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 62, y: 0, z: 55, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078b9a926260e3ef0800000000000000
+      internalID: -126656978542282640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_PepperBlast
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 577
+        width: 238
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c770138fcbd665620800000000000000
+      internalID: 2762516079823619964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_BrocolliRing
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 654
+        width: 201
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f72cd05a522a9f90800000000000000
+      internalID: -6946201703966562316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_PeasMaker
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 646
+        width: 143
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6000f65b3adcd4c0800000000000000
+      internalID: -4261291199002836885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Dash
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 648
+        width: 208
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8329241649cf08f60800000000000000
+      internalID: 8034699449446076984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Attack
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 433
+        width: 182
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f169400a0b78d30800000000000000
+      internalID: 4433706559487745917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Arrow
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1153
+        width: 258
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1efa894b7dcbdd0800000000000000
+      internalID: -2468861325050125844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Pepper
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 440
+        width: 115
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7617875f1b692f90800000000000000
+      internalID: -6977928365277243778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Brocolli
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 434
+        width: 112
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7088d00a85e2e5560800000000000000
+      internalID: 7304326603818764295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Peas
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 436
+        width: 151
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2ca1655a30458a0800000000000000
+      internalID: -6317420368644881708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bar_Health
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 370
+        width: 765
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64226a9f9868d25e0800000000000000
+      internalID: -1932740737915018682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outline_Health
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 238
+        width: 844
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd5d8114228f53e0800000000000000
+      internalID: -2062787012887487040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Logo
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 0
+        width: 782
+        height: 782
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae1463160902ac20800000000000000
+      internalID: 3216143005595737769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frame_ResourceArea
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 264
+        width: 220
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 63, y: 46, z: 65, w: 219}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7470f20fae6c0040800000000000000
+      internalID: 4615185416095560828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knob_Normal
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1163
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ca08c7c27c01270800000000000000
+      internalID: 8219288313832451095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knob_HighLight
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1249
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ce030afe31329f0800000000000000
+      internalID: -494529614174950276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Crystal
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1173
+        width: 139
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3b51d92132a9f30800000000000000
+      internalID: 4583014133654729640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_CrystalOutline
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1171
+        width: 143
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8694df4185bee580800000000000000
+      internalID: -8795893455213259121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourceCircle_Brocolli
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 796
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cca97855b4fff8b0800000000000000
+      internalID: -5116101591958967097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourceCircle_Peas
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 796
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760c9dc11e946b4a0800000000000000
+      internalID: -6577988974527528857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ResourceCircle_Pepper
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 796
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeed53e59dfd16b0800000000000000
+      internalID: -5323820364275519765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityButton_Normal_BrocolliRing
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 47
+        width: 243
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2e6c2227d914740800000000000000
+      internalID: 5134558163714368167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityButton_click_PeaSMaker
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 630
+        width: 165
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9560c9e7b552ed0800000000000000
+      internalID: -2439443023809586771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityButton_Normal_PeaSMaker
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 27
+        width: 166
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1175c7ec3cc707d20800000000000000
+      internalID: 3274254109523072785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityButton_Normal_PepperBlast
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 22
+        width: 190
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf6c926574323b50800000000000000
+      internalID: 6571372485057212332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityButton_Normal_Dash
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 13
+        width: 162
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd923768ced665030800000000000000
+      internalID: 3483092224453061085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityButton_Normal_Attack
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 27
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8b3e580923013f0800000000000000
+      internalID: -932189526562719559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityButton_Click_Dash
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 814
+        width: 161
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32e4b61550407130800000000000000
+      internalID: 3562418039447413309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityButton_Click_BrocolliRing
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 791
+        width: 245
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb84ef564d1c7910800000000000000
+      internalID: 1836374936154049520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityButton_Click_PepperBlast
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 991
+        width: 190
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c779b552a00c610800000000000000
+      internalID: 1639321419929582667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityButton_Click_Attack
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 998
+        width: 162
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69989b41b120b70e0800000000000000
+      internalID: -2271219271743207018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityButton_HighLight_BrocolliRing
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1357
+        width: 245
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38442b84b7c34b6a0800000000000000
+      internalID: -6434451467407309693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityButton_Highlight_PeaSMaker
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1587
+        width: 166
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539275136f8e5fef0800000000000000
+      internalID: -74897674694350539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityButton_Disable_PeaSMaker
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1616
+        width: 166
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce96bc1768baa4990800000000000000
+      internalID: -7400914443706865172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityButton_Highlight_PepperBlast
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1850
+        width: 190
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ca11d1c51a7d920800000000000000
+      internalID: 3015055892544597065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AbilityButton_Disable_PepperBlast
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1854
+        width: 190
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742981d8a1a773710800000000000000
+      internalID: 1672940041046364743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_PotBase
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1614
+        width: 152
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0c7569a9d25bca0800000000000000
+      internalID: -6001840786430770991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_PotLid
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1724
+        width: 122
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918f34aafc6394f90800000000000000
+      internalID: -6968978682836420583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 97b7cbc49b130d84d9933733ebfc47bc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

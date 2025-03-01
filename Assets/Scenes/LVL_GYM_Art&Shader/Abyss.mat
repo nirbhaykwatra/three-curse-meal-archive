@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Abyss
+  m_Shader: {fileID: -6465566751694194690, guid: 71d226e40c6c1b9498de35e5414c1373, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - EmissiveIntensity: 1.1
+    - Fresnel: 0
+    - FresnelOpacity: 0
+    - SmoothEdge1: -24.91
+    - SmoothEdge2: 51.7
+    - _Emission: 0.48
+    - baseSpeed: 0.75
+    - baseStrenght: 6.54
+    - base_scale: 0
+    - height: 1
+    - noisePower: -5.7
+    - noise_scale: -0.17
+    - speed: 4.49
+    - transperency: 0
+    m_Colors:
+    - ColorPeak: {r: 2.2588236, g: 0.28235295, b: 0, a: 0}
+    - ColorValley: {r: 0.09411765, g: 0.00334262, b: 0, a: 0}
+    - cloudSize: {r: -0.53, g: -5.9, b: 0.1, a: 1}
+    - rotate_projection: {r: 1, g: 0, b: 0, a: 60}
+  m_BuildTextureStacks: []

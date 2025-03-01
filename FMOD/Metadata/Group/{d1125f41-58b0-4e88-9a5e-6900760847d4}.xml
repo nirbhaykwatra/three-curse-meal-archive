@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{d1125f41-58b0-4e88-9a5e-6900760847d4}">
+		<property name="name">
+			<value>PepperBomber</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{b6482a82-f9a6-4132-9cb8-3b48cbeabe62}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{19bc503e-713a-4972-abe9-976fdd4bdd2c}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{bd14f81e-681a-431f-bd4b-1f30a8872eba}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{b6482a82-f9a6-4132-9cb8-3b48cbeabe62}">
+		<relationship name="effects">
+			<destination>{7270a3d4-94a0-4087-9ca6-36ce876c78a3}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{19bc503e-713a-4972-abe9-976fdd4bdd2c}" />
+	<object class="MixerBusFader" id="{7270a3d4-94a0-4087-9ca6-36ce876c78a3}" />
+</objects>
