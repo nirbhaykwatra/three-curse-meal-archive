@@ -1,4 +1,4 @@
-# GAME TITLE
+# Three Curse Meal
 
 ### High Concept
 
